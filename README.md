@@ -73,4 +73,9 @@ This project demonstrates the use of  jenkins to push image to DockerHub Reposit
 
 
 
+  ![image](https://github.com/user-attachments/assets/131c660d-1de7-4c55-a633-b7c04a5f7f71)
+
+
+
+
 
