@@ -4,7 +4,7 @@
 This project demonstrates the use of  jenkins to push image to DockerHub Repository and Nexus Repository .
 ---
 
-## **Features**
+## **Diagrammatic Presentation**
 
 ### Push Image to DockerHub Repository
 - Made Docker available in Jenkins container (mount docker runtime inside container as a volume)
